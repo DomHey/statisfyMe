@@ -1,0 +1,27 @@
+startProductDatabaseEstimation: CRM
+found : 50 Keywords
+overall docs: 371
+unique docs: 309
+doub docs: 62
+CRM Database is: 1695.8670295232012 docs
+
+startProductDatabaseEstimation: HCM
+found : 179 Keywords
+overall docs: 498
+unique docs: 407
+doub docs: 91
+HCM Database is: 2044.6397785468325 docs
+
+startProductDatabaseEstimation: LVM
+found : 469 Keywords
+overall docs: 365
+unique docs: 289
+doub docs: 76
+LVM Database is: 1275.9899442054316 docs
+
+startProductDatabaseEstimation: ECOM
+found : 85 Keywords
+overall docs: 660
+unique docs: 557
+doub docs: 103
+ECOM Database is: 3271.4803317141286 docs
